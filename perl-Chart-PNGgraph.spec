@@ -5,7 +5,7 @@ Summary:	Chart::PNGgraph - graph plotting module (deprecated)
 Summary(pl):	Chart::PNGgraph - modu³ rysuj±cy wykresy (wycofywany)
 Name:		perl-Chart-PNGgraph
 Version:	1.21
-Release:	5
+Release:	6
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
