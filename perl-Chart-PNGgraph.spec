@@ -6,7 +6,8 @@ Summary(pl):	Chart::PNGgraph - modu³ rysuj±cy wykresy (wycofywany)
 Name:		perl-Chart-PNGgraph
 Version:	1.21
 Release:	5
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	b235ddafeef8caf0a15e2e492d1e5964
