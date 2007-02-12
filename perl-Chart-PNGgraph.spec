@@ -2,7 +2,7 @@
 %define		pdir	Chart
 %define		pnam	PNGgraph
 Summary:	Chart::PNGgraph - graph plotting module (deprecated)
-Summary(pl):	Chart::PNGgraph - modu≥ rysuj±cy wykresy (wycofywany)
+Summary(pl.UTF-8):   Chart::PNGgraph - modu≈Ç rysujƒÖcy wykresy (wycofywany)
 Name:		perl-Chart-PNGgraph
 Version:	1.21
 Release:	6
@@ -25,12 +25,12 @@ This is PNGgraph 1.21, a package to generate PNG charts, using Lincoln
 Stein's GD.pm.  It's a wrapper around GD::Graph, provided for backward
 compatibility with existing Chart::PNGgraph scripts only.
 
-%description -l pl
-*** TEN MODU£ WYCHODZI Z UØYTKU -- NALEØY UØYWA∆ GD::Graph ***
+%description -l pl.UTF-8
+*** TEN MODU≈Å WYCHODZI Z U≈ªYTKU -- NALE≈ªY U≈ªYWAƒÜ GD::Graph ***
 
-To jest PNGgraph - pakiet do generowania wykresÛw PNG przy uøyciu
-GD.pm Lincolna Steina. Jest to obudowa dla GD::Graph, udostÍpniona
-tylko dla wstecznej kompatybilno∂ci z istniej±cymi skryptami
+To jest PNGgraph - pakiet do generowania wykres√≥w PNG przy u≈ºyciu
+GD.pm Lincolna Steina. Jest to obudowa dla GD::Graph, udostƒôpniona
+tylko dla wstecznej kompatybilno≈õci z istniejƒÖcymi skryptami
 Chart::PNGgraph.
 
 %prep
