@@ -1,6 +1,5 @@
 %define		pdir	Chart
 %define		pnam	PNGgraph
-%include	/usr/lib/rpm/macros.perl
 Summary:	Chart::PNGgraph - graph plotting module (deprecated)
 Summary(pl.UTF-8):	Chart::PNGgraph - moduł rysujący wykresy (wycofywany)
 Name:		perl-Chart-PNGgraph
